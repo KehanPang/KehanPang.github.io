@@ -1,0 +1,1 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[2],{"./docs/README.md":function(t,e,n){"use strict";n.r(e);var o=n("./node_modules/vue-loader/lib/runtime/componentNormalizer.js"),s=Object(o.a)({},(function(){return(0,this._self._c)("ContentSlotsDistributor",{attrs:{"slot-key":this.$parent.slotKey}})}),[],!1,null,null,null);e.default=s.exports}}]);
